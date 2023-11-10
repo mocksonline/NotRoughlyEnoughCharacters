@@ -29,13 +29,22 @@
 如果你想为某个 Mod 增加适配，请参考 [mixins](./src/main/java/com/oott123/rechars/mixins) 文件夹实现对应逻辑，然后在 [roughly-enough-characters.mixins.json](./src/main/resources/roughly-enough-characters.mixins.json) 中添加对应的 Mixin Class 定义即可。
 
 原版本[REC](https://github.com/oott123/RoughlyEnoughCharacters)
+
 原版本[REC](https://github.com/oott123/RoughlyEnoughCharacters)
+
 原版本[REC](https://github.com/oott123/RoughlyEnoughCharacters)
+
 原版本[REC](https://github.com/oott123/RoughlyEnoughCharacters)
+
 原版本[REC](https://github.com/oott123/RoughlyEnoughCharacters)
+
 原版本[REC](https://github.com/oott123/RoughlyEnoughCharacters)
+
 原版本[REC](https://github.com/oott123/RoughlyEnoughCharacters)
+
 原版本[REC](https://github.com/oott123/RoughlyEnoughCharacters)
+
 原版本[REC](https://github.com/oott123/RoughlyEnoughCharacters)
+
 原版本[REC](https://github.com/oott123/RoughlyEnoughCharacters)
 
