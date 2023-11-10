@@ -11,7 +11,7 @@ import java.util.regex.Pattern;
 
 @SuppressWarnings("UnresolvedMixinReference")
 @Pseudo
-@Mixin(targets = "com.tom.storagemod.gui.GuiStorageTerminalBase")
+@Mixin(targets = "com.tom.storagemod.gui.AbstractStorageTerminalScreen")
 public class TomSimpleStorage {
 
     @Redirect(method = {"updateSearch"}, at =@At(value = "INVOKE", target = "Ljava/util/regex/Pattern;matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;"),remap = false)
