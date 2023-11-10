@@ -4,6 +4,8 @@
 
 为 Minecraft 增加拼音搜索。原版本[REC](https://github.com/oott123/RoughlyEnoughCharacters)
 
+由于REI已自带拼音搜索，所以原作者放弃更新，这里把其附带的模组拼音搜索单独做出来。
+
 大部分代码自 [REC](https://github.com/oott123/RoughlyEnoughCharacters)，并使用和 JECH, REC 同样的 [PinIn](https://github.com/Towdium/PinIn) 库实现匹配逻辑。
 
 ## 使用
