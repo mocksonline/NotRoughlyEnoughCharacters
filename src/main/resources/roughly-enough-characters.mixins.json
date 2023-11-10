@@ -6,15 +6,9 @@
   "client": [
     "VanillaTextSearch",
     "VanillaIdentifierSearch",
-    "AppliedEnergeticsSearchPredicates",
-    "AppliedEnergeticsInterfaceTerminal",
-    "ControllingKeyBindsScreen",
     "ModMenuModSearch",
-    "TomSimpleStorage",
-    "MixinJeiSearch",
-    "MixinJeiSearchLowMemory",
-    "EmiSearchContains",
-    "EmiSearchRegex"
+    "TomSimpleStorage"
+    
   ],
   "injectors": {
     "defaultRequire": 0
